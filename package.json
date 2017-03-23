@@ -1,0 +1,10 @@
+{
+  "name": "OpenMarket",
+  "description": "Free and Open anonymous market space",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {}
+}
